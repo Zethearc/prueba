@@ -1,0 +1,5 @@
+Hola, esta es la vida de Mishu.
+
+Es de Riobamba y le gusta la programación web.
+
+Ahora practica Python y Git-Github.
